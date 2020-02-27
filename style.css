@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans|Parisienne&display=swap');
+body {
+    background-color: wheat;
+    padding: 0;
+    margin: 0;
+    font-family: 'merriweather',;
+}
+a{
+    color: black;
+}
+pre{
+    display: none;
+}
+table {
+    display: none; 
+}
+.illus{
+    display:table;
+    text-align: center;
+    margin: auto; 
+}
+.title {
+    font-family: 'Parisienne';
+}
+p {
+    margin: 0 auto;
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 600px;
+  }
+h1,h2,h3,h4,h5 {
+    text-align: center;
+}
+img {
+    width: 50vw;
+    margin: auto; 
+    display: block; 
+}
+hr{
+    display: none;
+}
+.contents {
+    text-align: center; 
+}
+.illustrations {
+    text-align: center; 
+}
